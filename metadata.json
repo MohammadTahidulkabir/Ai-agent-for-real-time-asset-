@@ -1,0 +1,6 @@
+{
+  "name": "ClearSpend Agent Wallet",
+  "description": "Autonomous On-chain Wallet Agent with Deterministic Policy Gating, Permission Passport, AI Risk Assessment, and Verified Testnet Execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
